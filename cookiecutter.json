@@ -1,0 +1,7 @@
+{
+    "project_name": "opencv",
+    "library_or_application": ["Library", "Application"],
+    "author_name": "James Milliman",
+    "author_email": "jaimsmilliman@gmail.com",
+    "data_folder": "data"
+}
