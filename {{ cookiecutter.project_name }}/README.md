@@ -25,6 +25,6 @@ To run the tests (verbose):
 TODO
 
 ## Meta
-Generated using cookiecutter template generated here: 
+Generated using cookiecutter template generated here: https://github.com/jamesmilliman/dgmd_e17-cookiecutter
 {{ cookiecutter.author_name|title }} - {{ cookiecutter.author_email }}
 Distributed under the MIT license. See [`LICENSE`](./LICENSE) for more information.
